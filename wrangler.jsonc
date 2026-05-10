@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "therapy",
+  "name": "yourpsychologist",
   "compatibility_date": "2026-05-10",
   "observability": {
     "enabled": true
